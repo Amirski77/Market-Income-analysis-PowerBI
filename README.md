@@ -106,7 +106,7 @@ The majority of customers fall within the 30–50 age range and Low–Mid income
 ---
 
 ## 📂 Project Files
-- `Project_4_Rashidov_Amir.pbix` — Full interactive Power BI dashboard  
+- (https://github.com/Amirski77/Market-Income-analysis-PowerBI/blob/main/Project%204%20Rashidov%20Amir.pbix) — Full interactive Power BI dashboard  
 - `images/` — Dashboard screenshots used in this README  
 
 ---
