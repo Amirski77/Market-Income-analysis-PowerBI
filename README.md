@@ -68,7 +68,7 @@ These results indicate a strong positive relationship between income and purchas
 ## 📊 Dashboard Visualizations
 
 ### 1. Average Income by State
-![Average Income by State](images/average_income.png)
+![Average Income by State](https://github.com/Amirski77/Market-Income-analysis-PowerBI/blob/main/avereage_income.png)
 
 *Figure 1. Average household income by U.S. state.  
 High-income regions highlight strong potential for premium product targeting.*
@@ -76,21 +76,21 @@ High-income regions highlight strong potential for premium product targeting.*
 ---
 
 ### 2. Analysis Summary & Marketing Overview
-![Report Summary](images/report_summary_slide.png)
+![Report Summary]([images/report_summary_slide.png](https://github.com/Amirski77/Market-Income-analysis-PowerBI/blob/main/report_summary_slide.png))
 
 *Figure 2. Executive summary slide answering key business questions and outlining the marketing strategy.*
 
 ---
 
 ### 3. Customer Distribution & Predicted Income Dashboard
-![Dashboard Summary](images/dashboard_summary.png)
+![Dashboard Summary]([images/dashboard_summary.png](https://github.com/Amirski77/Market-Income-analysis-PowerBI/blob/main/dashboard_summary..png))
 
 *Figure 3. Customer distribution by state and income segment, combined with predicted income levels.*
 
 ---
 
 ### 4. Customer Demographics & Income Segmentation
-![Customer Demographics](images/customer_demographics.png)
+![Customer Demographics](https://github.com/Amirski77/Market-Income-analysis-PowerBI/blob/main/customer_demographics.png)
 
 *Figure 4. Customer age distribution and income range segmentation.  
 The majority of customers fall within the 30–50 age range and Low–Mid income groups.*
@@ -98,7 +98,7 @@ The majority of customers fall within the 30–50 age range and Low–Mid income
 ---
 
 ### 5. Relationship Between Average Income and Sales
-![Regression Analysis](images/regression_analysis.png)
+![Regression Analysis]([images/regression_analysis.png](https://github.com/Amirski77/Market-Income-analysis-PowerBI/blob/main/regression_analysis.png))
 
 *Figure 5. Linear regression model showing a strong positive relationship between income and sales  
 (R = 0.88, R² = 0.78).*
